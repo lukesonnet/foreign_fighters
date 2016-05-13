@@ -200,7 +200,7 @@ krhnb <- function(X = NULL,
                            lambda2=lambda2)
             
         if(bootc$theta >= 1e-2){
-          eff <- effects(X.init[samp, ], bootc, type = "unit")
+          eff <- effects(X.init[samp, ], bootc)
           bootmfx[i, ] <- apply(eff$effectDF, 2, mean)
           bootmfx.median[i, ] <- apply(eff$effectDF, 2, median)
           bootonesmfx[i, ] <- apply(eff$onesDF, 2, mean)
