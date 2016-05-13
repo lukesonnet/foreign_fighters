@@ -13,7 +13,7 @@ This repository has the replication files for the paper by George Derpanopoulos 
 
 ## Main files
 
-* [`code/krhnb.R`](code/krhnb.R) is the main script for the KRHNB method
+* [`krhnb/krhnb.R`](code/krhnb.R) is the main script for the KRHNB method
 * [`code/analyze_ff.R`](code/analyze_ff.R) is the main analysis script
 * [`code/analyze_krhnb_performance.R`](code/analyze_krhnb_performance.R) is used to evaluate the OOS performance of our model
 * [`data/foreignFightersImputed.csv`](data/foreignFightersImputed.csv) is the main imputed dataset

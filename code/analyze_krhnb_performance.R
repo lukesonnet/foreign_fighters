@@ -41,20 +41,26 @@ y <- round(df$icsrMean)
 # Foreign Fighters
 #----------
 
-## Seeds only necessary because results for random forests fluctuates ever
-## so slightly
-set.seed(20160415)
-foldslcv <- chunk(sample(nrow(X)), 163)
-set.seed(20160415)
-ff.lcv <- compareKrhnb(y = y, X = X, foldslcv, lambda1 = 0.002, lambda2 = 0.85, hnb = FALSE)
+ffPerf <- FALSE
+
+if (ffPerf) {
+  ## Seeds only necessary because results for random forests fluctuates ever
+  ## so slightly
+  set.seed(20160415)
+  foldslcv <- chunk(sample(nrow(X)), 163)
+  set.seed(20160415)
+  ff.lcv <- compareKrhnb(y = y, X = X, foldslcv, lambda1 = 0.002, lambda2 = 0.85, hnb = FALSE)
+  save(ff.lcv, file = "savedata/krhnb.loocv.RData")
+} else {
+  load("savedata/krhnb.loocv.RData")
+}
+
 apply(ff.lcv$totalMseDF, 2, function(x) sqrt(mean(x)))
 apply(ff.lcv$totalMseDF, 2, function(x) mean(x))
-#save(ff.lcv, file = "savedata/krhnb.loocv.RData")
-#load("savedata/krhnb.loocv.RData")
 
 ## Plot fit
-setdiff(names(ff.lcv2$totalPredDF), c("yhat.hnb", "fold"))
-plot.df <- reshape2::melt(ff.lcv2$totalPredDF[, setdiff(names(ff.lcv2$totalPredDF), c("yhat.hnb", "fold", "yhat.trunc0.k", "yhat.lm"))],
+setdiff(names(ff.lcv$totalPredDF), c("yhat.hnb", "fold"))
+plot.df <- reshape2::melt(ff.lcv$totalPredDF[, setdiff(names(ff.lcv$totalPredDF), c("yhat.hnb", "fold", "yhat.trunc0.k", "yhat.lm"))],
                           id.vars = c("testy"),
                           variable.name = "method",
                           value.name = "ypred")
@@ -136,11 +142,19 @@ X <- burgoon.nb$model[, c("terrorinc", "welfarelog", "govleft", "democ", "poplog
                           "tradelog", "europe", "africa", "asia", "america")]
 y <- burgoon.nb$model$terrorinclead
 
-set.seed(20160214)
-folds <- chunk(sample(nrow(X)), 5)
-set.seed(20160214)
-b.out <- compareKrhnb(y = y, X = X, folds, lambda1s = c(0.075, 0.1, 0.125),
-                      lambda2s = c(3:5), lambdafolds = 10)
+bgPerf <- FALSE
+
+if (bgPerf) {
+  set.seed(20160214)
+  folds <- chunk(sample(nrow(X)), 5)
+  set.seed(20160214)
+  b.out <- compareKrhnb(y = y, X = X, folds, lambda1s = c(0.075, 0.1, 0.125),
+                        lambda2s = c(3:5), lambdafolds = 10)
+
+  save(b.out, file = "savedata/burgoon.perf.RData")
+} else{
+  load("savedata/burgoon.perf.RData")
+}
+
 apply(b.out$totalMseDF, 2, function(x) sqrt(mean(x)))
 apply(b.out$totalMseDF, 2, function(x) mean(x))
-#save(b.out, file = "savedata/burgoon.perf.RData")

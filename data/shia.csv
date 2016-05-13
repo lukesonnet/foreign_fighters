@@ -1,0 +1,188 @@
+ctryCode,ctryName,pctmusShia
+ABW,Aruba,0.5
+AFG,Afghanistan,12.5
+AGO,Angola,0
+ALB,Albania,2.5
+ARE,United Arab Emirates,10
+ARG,Argentina,7.5
+ARM,Armenia,0.5
+AUS,Australia,7.5
+AUT,Austria,0.5
+AZE,Azerbaijan,70
+BDI,Burundi,2.5
+BEL,Belgium,0.5
+BEN,Benin,0.5
+BFA,Burkina Faso,0.5
+BGD,Bangladesh,0.5
+BGR,Bulgaria,12.5
+BHR,Bahrain,70
+BHS,"Bahamas, The",0
+BIH,Bosnia and Herzegovina,0.5
+BLR,Belarus,0.5
+BLZ,Belize,0.5
+BOL,Bolivia,0.5
+BRA,Brazil,7.5
+BRB,Barbados,0.5
+BRN,Brunei Darussalam,0.5
+BTN,Bhutan,0.5
+BWA,Botswana,0.5
+CAF,Central African Republic,0.5
+CAN,Canada,0.5
+CHE,Switzerland,0.5
+CHL,Chile,0.5
+CHN,China,0.5
+CIV,Cote d'Ivoire,0.5
+CMR,Cameroon,0.5
+COG,"Congo, Rep.",0.5
+COL,Colombia,0.5
+COM,Comoros,0.5
+CPV,Cabo Verde,0.5
+CRI,Costa Rica,0
+CUB,Cuba,0.5
+CYP,Cyprus,0.5
+CZE,Czech Republic,0.5
+DEU,Germany,12.5
+DJI,Djibouti,0.5
+DNK,Denmark,2.5
+DOM,Dominican Republic,0.5
+DZA,Algeria,0.5
+ECU,Ecuador,0.5
+EGY,"Egypt, Arab Rep.",0.5
+ERI,Eritrea,0.5
+ESP,Spain,0.5
+EST,Estonia,0.5
+ETH,Ethiopia,0.5
+FIN,Finland,0.5
+FJI,Fiji,0.5
+FRA,France,2.5
+FSM,"Micronesia, Fed. Sts.",0
+GAB,Gabon,0.5
+GBR,United Kingdom,12.5
+GEO,Georgia,20
+GHA,Ghana,0.5
+GIN,Guinea,0.5
+GMB,"Gambia, The",0.5
+GNB,Guinea-Bissau,0.5
+GNQ,Equatorial Guinea,0.5
+GRC,Greece,12.5
+GRD,Grenada,0.5
+GTM,Guatemala,0.5
+GUY,Guyana,0.5
+HKG,"Hong Kong SAR, China",0
+HND,Honduras,0.5
+HRV,Croatia,0.5
+HTI,Haiti,0.5
+HUN,Hungary,0.5
+IDN,Indonesia,0.5
+IND,India,12.5
+IRL,Ireland,0.5
+IRN,"Iran, Islamic Rep.",92.5
+IRQ,Iraq,67.5
+ISL,Iceland,0.5
+ISR,Israel,0.5
+ITA,Italy,2.5
+JAM,Jamaica,0.5
+JOR,Jordan,0.5
+JPN,Japan,0.5
+KAZ,Kazakhstan,0.5
+KEN,Kenya,2.5
+KGZ,Kyrgyz Republic,0.5
+KHM,Cambodia,0.5
+KIR,Kiribati,0
+KOR,"Korea, Rep.",0.5
+KSV,Kosovo,10
+KWT,Kuwait,22.5
+LAO,Lao PDR,0.5
+LBN,Lebanon,50
+LBR,Liberia,0.5
+LBY,Libya,0.5
+LCA,St. Lucia,0.5
+LKA,Sri Lanka,0.5
+LSO,Lesotho,0.5
+LTU,Lithuania,15
+LUX,Luxembourg,0.5
+LVA,Latvia,30
+MAC,"Macao SAR, China",0
+MAR,Morocco,0.5
+MDA,Moldova,0.5
+MDG,Madagascar,0.5
+MDV,Maldives,0.5
+MEX,Mexico,0.5
+MKD,"Macedonia, FYR",0.5
+MLI,Mali,0.5
+MLT,Malta,0.5
+MMR,Myanmar,0.5
+MNG,Mongolia,2.5
+MOZ,Mozambique,0.5
+MRT,Mauritania,0.5
+MUS,Mauritius,7.5
+MWI,Malawi,0.5
+MYS,Malaysia,1
+NAM,Namibia,0.5
+NCL,New Caledonia,0.5
+NER,Niger,0.5
+NGA,Nigeria,2.5
+NIC,Nicaragua,0.5
+NLD,Netherlands,2.5
+NOR,Norway,0.5
+NPL,Nepal,0.5
+NZL,New Zealand,0.5
+OMN,Oman,7.5
+PAK,Pakistan,12.5
+PAN,Panama,0.5
+PER,Peru,0.5
+PHL,Philippines,0.5
+PNG,Papua New Guinea,0.5
+POL,Poland,0.5
+PRI,Puerto Rico,0.5
+PRK,"Korea, Dem. Rep.",0.5
+PRT,Portugal,0.5
+PRY,Paraguay,0.5
+PYF,French Polynesia,0
+QAT,Qatar,10
+ROM,Romania,0.5
+RUS,Russian Federation,0.5
+RWA,Rwanda,0.5
+SAU,Saudi Arabia,12.5
+SDN,Sudan,0.5
+SEN,Senegal,0.5
+SGP,Singapore,0.5
+SLB,Solomon Islands,0.5
+SLE,Sierra Leone,0.5
+SLV,El Salvador,0.5
+SOM,Somalia,0.5
+SRB,Serbia,12.5
+STP,Sao Tome and Principe,0.5
+SUR,Suriname,0.5
+SVK,Slovak Republic,0.5
+SVN,Slovenia,0.5
+SWE,Sweden,30
+SWZ,Swaziland,0.5
+SYR,Syrian Arab Republic,17.5
+TCD,Chad,0.5
+TGO,Togo,0.5
+THA,Thailand,0.5
+TJK,Tajikistan,7
+TKM,Turkmenistan,1
+TMP,Timor-Leste,0.5
+TON,Tonga,0
+TTO,Trinidad and Tobago,0.5
+TUN,Tunisia,0.5
+TUR,Turkey,12.5
+TZA,Tanzania,7.5
+UGA,Uganda,2.5
+UKR,Ukraine,0.5
+URY,Uruguay,0.5
+USA,United States,12.5
+UZB,Uzbekistan,1
+VCT,St. Vincent and the Grenadines,0.5
+VEN,"Venezuela, RB",0.5
+VNM,Vietnam,0.5
+VUT,Vanuatu,0
+WBG,West Bank and Gaza,0.5
+WSM,Samoa,0
+YEM,"Yemen, Rep.",37.5
+ZAF,South Africa,7.5
+ZAR,"Congo, Dem. Rep.",0.5
+ZMB,Zambia,0.5
+ZWE,Zimbabwe,0.5

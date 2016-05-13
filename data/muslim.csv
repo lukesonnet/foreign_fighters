@@ -1,0 +1,238 @@
+country,iso2,muslim.pop,muslimpct
+Asia-Pacific,,1005507000,24.8
+Afghanistan,AF,29047000,99.8
+American Samoa ,AS,"<1,000 ",<0.1 
+Armenia,AM,1000,<0.1
+Australia,AU,399000,1.9
+Azerbaijan,AZ,8795000,98.4
+Bangladesh,BD,148607000,90.4
+Bhutan,BT,7000,1
+Brunei,BN,211000,51.9
+Burma (Myanmar),MM,1900000,3.8
+Cambodia,KH,240000,1.6
+China,CN,23308000,1.8
+Cook Islands,CK," <1,000 ",<0.1
+Cyprus,CY,200000,22.7
+Federated States of Micronesia,FM," <1,000 ",<0.1
+Fiji,FJ,54000,6.3
+French Polynesia,PF," <1,000 ",<0.1
+Guam,GU," <1,000 ",<0.1
+Hong Kong,HK,91000,1.3
+India,IN,177286000,14.6
+Indonesia,ID,204847000,88.1
+Iran,IR,74819000,99.7
+Japan,JP,185000,0.1
+Kazakhstan,KZ," 8,887,000* ",56.4
+Kiribati,KI," <1,000 ",<0.1
+Kyrgyzstan,KG,4927000,88.8
+Laos,LA,1000,<0.1
+Macau,MO," <1,000 ",<0.1
+Malaysia,MY,17139000,61.4
+Maldives,MV,309000,98.4
+Marshall Islands,MH," <1,000 ",<0.1
+Mongolia,MN,120000,4.4
+Nauru,NR," <1,000 ",<0.1
+Nepal,NP,1253000,4.2
+New Caledonia,NC,7000,2.8
+New Zealand,NZ,41000,0.9
+Niue,NU," <1,000 ",<0.1
+North Korea,KP,3000,<0.1
+Northern Mariana Islands,MP," <1,000 ",0.7
+Pakistan,PK,178097000,96.4
+Palau,PW," <1,000 ",<0.1
+Papua New Guinea,PG,2000,<0.1
+Philippines,PH,4737000,5.1
+Pitcairn,PN," <1,000 ",<0.1
+Samoa,WS," <1,000 ",<0.1
+Singapore,SG,721000,14.9
+Solomon Islands,SB," <1,000 ",<0.1
+South Korea,KR,75000,0.2
+Sri Lanka,LK,1725000,8.5
+Taiwan,TW,23000,0.1
+Tajikistan,TJ,7006000,99
+Thailand,TH,3952000,5.8
+Timor-Leste,TL,1000,0.1
+Tokelau,TK," <1,000 ",<0.1
+Tonga,TO," <1,000 ",<0.1
+Turkey,TR,74660000,98.6
+Turkmenistan,TM,4830000,93.3
+Tuvalu,TV," <1,000 ",0.1
+Uzbekistan,UZ,26833000,96.5
+Vanuatu,VU," <1,000 ",<0.1
+Vietnam,VN,160000,0.2
+Wallis and Futuna,WF," <1,000 ",<0.1
+Middle East-North Africa,,321869000,91.2
+Algeria,DZ,34780000,98.2
+Bahrain,BH,655000,81.2
+Egypt,EG,80024000,94.7
+Iraq,IQ,31108000,98.9
+Israel,IL,1287000,17.7
+Jordan,JO,6397000,98.8
+Kuwait,KW,2636000,86.4
+Lebanon,LB,2542000,59.7
+Libya,LY,6325000,96.6
+Morocco,MA,32381000,99.9
+Oman,OM,2547000,87.7
+Palestinian territories,PS,4298000,97.5
+Qatar,QA,1168000,77.5
+Saudi Arabia,SA,25493000,97.1
+Sudan,SD,30855000,71.4
+Syria,SY,20895000,92.8
+Tunisia,TN,10349000,99.8
+United Arab Emirates,AE,3577000,76
+Western Sahara,EH,528000,99.6
+Yemen,YE,24023000,99
+Sub-Saharan Africa,,242544000,29.6
+Angola,AO,195000,1
+Benin,BJ,2259000,24.5
+Botswana,BW,8000,0.4
+Burkina Faso,BF,9600000,58.9
+Burundi,BI,184000,2.2
+Cameroon,CM,3598000,18
+Cape Verde,CV," <1,000 ",0.1
+Central African Republic,CF,403000,8.9
+Chad,TD,6404000,55.7
+Comoros,KM,679000,98.3
+Congo,CG,969000,1.4
+Djibouti,DJ,853000,97
+Equatorial Guinea,GQ,28000,4.1
+Eritrea,ER,1909000,36.5
+Ethiopia,ET,28721000,33.8
+Gabon,GA,145000,9.7
+Gambia,GM,1669000,95.3
+Ghana,GH,3906000,16.1
+Guinea,GN,8693000,84.2
+Guinea-Bissau,GW,705000,42.8
+Ivory Coast,CI,7960000,36.9
+Kenya,KE,2868000,7
+Lesotho,LS,1000,<0.1
+Liberia,LR,523000,12.8
+Madagascar,MG,220000,1.1
+Malawi,MW,2011000,12.8
+Mali,ML,12316000,92.4
+Mauritania,MR,3338000,99.2
+Mauritius,MU,216000,16.6
+Mayotte,YT,197000,98.8
+Mozambique,MZ,5340000,22.8
+Namibia,NA,9000,0.4
+Niger,NE,15627000,98.3
+Nigeria,NG,75728000,47.9
+Republic of Congo,CD,60000,1.6
+Reunion,RE,35000,4.2
+Rwanda,RW,188000,1.8
+Sao Tome and Principe,ST," <1,000 ",<0.1
+Senegal,SN,12333000,95.9
+Seychelles,SC," <1,000 ",1.1
+Sierra Leone,SL,4171000,71.5
+Somalia,SO,9231000,98.6
+South Africa,ZA,737000,1.5
+St. Helena,SH," <1,000 ",<0.1
+Swaziland,SZ,2000,0.2
+Tanzania,TZ,13450000,29.9
+Togo,TG,827000,12.2
+Uganda,UG,4060000,12
+Zambia,ZM,59000,0.4
+Zimbabwe,ZW,109000,0.9
+Europe,,44138000,6
+Albania,AL,2601000,82.1
+Andorra,AD," <1,000 ",1.1
+Austria,AT,475000,5.7
+Belarus,BY,19000,0.2
+Belgium,BE,638000,6
+Bosnia-Herzegovina ,BA,1564000,41.6
+Bulgaria,BG,1002000,13.4
+Channel Islands,GB," <1,000 ",0.1
+Croatia,HR,56000,1.3
+Czech Republic,CZ,4000,<0.1
+Denmark,DK,226000,4.1
+Estonia,EE,2000,0.1
+Faeroe Islands,FO," <1,000 ",<0.1
+Finland,FI,42000,0.8
+France,FR,4704000,7.5
+Georgia,GE,442000,10.5
+Germany,DE,4119000,5
+Gibraltar,GI,1000,4
+Greece,GR,527000,4.7
+Hungary,HU,25000,0.3
+Iceland,IS," <1,000 ",0.1
+Ireland,IE,43000,0.9
+Isle of Man,IM," <1,000 ",0.2
+Italy,IT,1583000,2.6
+Kosovo,XK,2104000,91.7
+Latvia,LV,2000,0.1
+Liechtenstein,LI,2000,4.8
+Lithuania,LT,3000,0.1
+Luxembourg,LU,11000,2.3
+Malta,MT,1000,0.3
+Moldova,MD,15000,0.4
+Monaco,MC," <1,000",0.5
+Montenegro,ME,116000,18.5
+Netherlands,NL,914000,5.5
+Norway,NO,144000,3
+Poland,PL,20000,0.1
+Portugal,PT,65000,0.6
+Republic of Macedonia,MK,713000,34.9
+Romania,RO,73000,0.3
+Russia,RU,16379000,11.7
+San Marino,SM," <1,000",<0.1
+Serbia,RS,280000,3.7
+Slovakia,SK,4000,0.1
+Slovenia,SI,49000,2.4
+Spain,ES,1021000,2.3
+Sweden,SE,451000,4.9
+Switzerland,CH,433000,5.7
+Ukraine,UA,393000,0.9
+United Kingdom,GB,2869000,4.6
+Vatican City,VA," <1,000",<0.1
+Americas,,5256000,0.6
+Anguilla,AI," <1,000",0.3
+Antigua and Barbuda,AG," <1,000",0.6
+Argentina,AR,1000000,2.5
+Aruba,AW," <1,000",0.4
+Bahamas,BS," <1,000",0.1
+Barbados,BB,2000,0.9
+Belize,BZ," <1,000",0.1
+Bermuda,BM," <1,000",0.8
+Bolivia,BO,2000,<0.1
+Brazil,BR,204000,0.1
+British Virgin Islands,VG," <1,000",1.2
+Canada,CA,940000,2.8
+Cayman Islands,KY," <1,000",0.2
+Chile,CL,4000,<0.1
+Colombia,CO,14000,<0.1
+Costa Rica,CR," <1,000",<0.1
+Cuba,CU,10000,0.1
+Dominica,DM," <1,000",0.2
+Dominican Republic,DO,2000,<0.1
+Ecuador,EC,2000,<0.1
+El Salvador,SV,2000,<0.1
+Falkland Islands (Malvinas),FK," <1,000 ",<0.1
+French Guiana,GF,2000,0.9
+Greenland,GL," <1,000 ",<0.1
+Grenada,GD," <1,000 ",0.3
+Guadeloupe,GP,2000,0.4
+Guatemala,GT,1000,<0.1
+Guyana,GY,55000,7.2
+Haiti,HT,2000,<0.1
+Honduras,HN,11000,0.1
+Jamaica,JM,1000,<0.1
+Martinique,MQ," <1,000 ",0.2
+Mexico,MX,111000,0.1
+Montserrat,MS," <1,000 ",0.1
+Netherlands Antilles,AN," <1,000 ",0.2
+Nicaragua,NI,1000,<0.1
+Panama,PA,25000,0.7
+Paraguay,PY,1000,<0.1
+Peru,PE," <1,000 ",<0.1
+Puerto Rico,PR,1000,<0.1
+St. Kitts and Nevis,KN," <1,000 ",0.3
+St. Lucia,LC," <1,000 ",0.1
+St. Pierre and Miquelon,MF," <1,000 ",0.2
+St. Vincent and the Grenadines,PM,2000,1.7
+Suriname,SR,84000,15.9
+Trinidad and Tobago,TT,78000,5.8
+Turks and Caicos Islands,TC," <1,000 ",<0.1
+U.S. Virgin Islands,VI," <1,000 ",0.1
+United States,US,2595000,0.8
+Uruguay,UY," <1,000 ",<0.1
+Venezuela,VE,95000,0.3
