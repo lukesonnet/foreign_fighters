@@ -3,8 +3,8 @@
 This repository has the replication files for the paper "Predicting Foreign Fighter Flows to Syria Using Machine Learning: An Introduction to Kernel Regularized Hurdle Negative Binomial" ([GitHub link](tex/derpanopoulos_sonnet_ff.pdf), [DB link](https://www.dropbox.com/s/1ny0cewhyv2o4vb/derpanopoulos_sonnet_ff.pdf?dl=0)) by George Derpanopoulos and [Luke Sonnet](http://lukesonnet.github.io/). It also contains the script to use KRHNB. Please try and replicate, and please tell us when it fails!
 
 To fully replicate, you have to do the following:
-* Make sure all of the packages we use are installed (may take some time to work through all of the files, we will look to automate this in the near future)
-* Make sure you change "setwd" in the R scripts to the appropriate path
+* Make sure all of the packages we use are installed (may take some time to work through all of the files, we will look to automate and facilitate this in the future)
+* Make sure you set the working directory appropriately in each of the `R` files
 * Run [`code/build_ff_data.R`](code/build_ff_data.R) to build our full dataset from the raw data
 * Run [`code/analyze_ff.R`](code/analyze_ff.R) to run the full analysis. In the script there will be some flags you will have to turn to `TRUE` in order for the full analysis to run; these processes or slow so we instead rely on cached data
 * Run [`code/analyze_krhnb_performance.R`](code/analyze_ff.R) to run the OOS performance analysis. Again in the script there will be some flags you will have to turn to `TRUE` in order for the full tests to run; these processes or slow so we instead rely on cached data
@@ -13,7 +13,7 @@ To fully replicate, you have to do the following:
 # Folder structure
 
 * [`tex/`](tex/) contains the tex file, working paper, and bibliography
-	* `tex/tabs_figs` contains tables, figures, and more produced by the R code for the .tex file
+	* [`tex/tabs_figs`](tex/tabs_figs) contains tables, figures, and more produced by the R code for the .tex file
 * [`code/`](code/) contains the analysis files, files that build the data, and some supporting functions
 * [`krhnb/`](krhnb/) contains the script to run KRHNB
 * [`savedata/`](savedata/) contains some saved .RData files because some of the analyses can take time
