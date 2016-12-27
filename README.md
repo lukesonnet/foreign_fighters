@@ -1,6 +1,6 @@
 # Foreign Fighter Supply and Kernel Regularized Hurdle Negative Binomial
 
-This repository has the replication files for the paper "Predicting Foreign Fighter Flows to Syria Using Machine Learning: An Introduction to Kernel Regularized Hurdle Negative Binomial" ([GitHub link](tex/derpanopoulos_sonnet_ff.pdf), [DB link](https://www.dropbox.com/s/1ny0cewhyv2o4vb/derpanopoulos_sonnet_ff.pdf?dl=0)) by George Derpanopoulos and [Luke Sonnet](http://lukesonnet.github.io/). It also contains the script to use KRHNB. Please try and replicate, and please tell us when it fails!
+This repository has the replication files for the paper "Predicting Foreign Fighter Flows to Syria Using Machine Learning: An Introduction to Kernel Regularized Hurdle Negative Binomial" ([GitHub link](tex/derpanopoulos_sonnet_ff.pdf), [DB link](https://www.dropbox.com/s/1ny0cewhyv2o4vb/derpanopoulos_sonnet_ff.pdf?dl=0)) by [George Derpanopoulos](https://georgederpa.github.io/) and [Luke Sonnet](http://lukesonnet.github.io/). It also contains the script to use KRHNB. Please try and replicate, and please tell us when it fails!
 
 To fully replicate, you have to do the following:
 * Make sure all of the packages we use are installed (may take some time to work through all of the files, we will look to automate and facilitate this in the future)
